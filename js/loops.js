@@ -12,7 +12,7 @@
 
 /*DOUBLE A NUMBER
 * Create an array named "doubled", assign it the values of [2,4,6,8,10]
-* Use a for-loop to double each number in the array and print each out
+* Use a for-loop to double each number in the array and print each out each new value
 */
 
 
