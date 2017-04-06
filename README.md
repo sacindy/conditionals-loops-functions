@@ -27,20 +27,20 @@ Work through exercises to gain knowledge of javascript conditionals, loops, and 
 - Read comment blocks carefully.
 
 #### Part 1: Javascript Conditionals
-- You will be working on the conditional.js file.
-- Upon completing one exercise, test your work by running node conditionals.js.
+- You will be working on the **conditional.js file**.
+- Upon completing one exercise, test your work by running **node conditionals.js**.
 - Commit and move on to next excercise.
 - When you have completed everything, ask for further instruction.
 
 #### Part 2: Javascript loops
-- You will be working on the loops.js file.
-- Upon completing one exercise, test your work by running node loops.js.
+- You will be working on the **loops.js file**.
+- Upon completing one exercise, test your work by running **node loops.js**.
 - Commit and move on to next excercise.
 - When you have completed everything, ask for further instruction.
 
 #### Part 3: Javascript functions
-- You will be working on the functions.js file.
-- Upon completing one exercise, test your work by running node functions.js.
+- You will be working on the **functions.js file**.
+- Upon completing one exercise, test your work by running **node functions.js**.
 - Commit and move on to next excercise.
 - When you have completed everything, ask for further instruction.
 
