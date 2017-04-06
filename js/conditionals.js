@@ -16,8 +16,8 @@
 /* AGE CHECKER
 * Create a variable named "age", assign it your age
 * Write the following conditionals:
-  * age >= 16 = print "You are old enough to drive"
-  * age >= 18 = print "You are old enough to vote"
+  * age >= 16 < 18 = print "You are old enough to drive"
+  * age >= 18 < 21 = print "You are old enough to vote"
   * age >= 21 = print "You are old enough to rent a car"
   * other = print "Sorry your to young"
 */
