@@ -13,7 +13,7 @@
 */
 
 
-/* AGE CHECKER
+/* AGE CHECKER [Look up logical/comparitive operators]
 * Create a variable named "age", assign it your age
 * Write the following conditionals:
   * age >= 16 < 18 = print "You are old enough to drive"
