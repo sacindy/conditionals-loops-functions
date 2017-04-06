@@ -16,7 +16,7 @@ Work through exercises to gain knowledge of javascript conditionals, loops, and 
 ### Upon completing this project, students should understand:
 
 - Functions
-- If-else conditionals
+- If-else conditionals/Nested Conditonals
 - For-loops
 - Function invokation
 
