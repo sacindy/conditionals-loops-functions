@@ -3,7 +3,7 @@
 * This function should print "Hello World" when invoked
 */
 function myFirstFunction() {
-  console.log('Hello World');
+  return 'Hello World'
 }
 
 myFirstFunction();
@@ -14,7 +14,7 @@ myFirstFunction();
   "The sum is" + sum when invoked
 */
 function sum(a,b) {
-  console.log('The sum is ' + (a+b));
+  return 'The sum is ' + (a+b)
 }
 
 sum(5,5);
@@ -27,7 +27,7 @@ sum(5,5);
 */
 function ageCalc(currentYear, birthYear) {
   var age = currentYear - birthYear;
-  console.log('You are ' + age + ' years old');
+  return 'You are ' + age + ' years old'
 }
 
 ageCalc(2017, 1988);
@@ -40,7 +40,7 @@ ageCalc(2017, 1988);
 */
 function draw(howMany) {
   for (var i = 0; i < howMany; i++) {
-    console.log('@(^_^)@');
+    return '@(^_^)@'
   }
 }
 
